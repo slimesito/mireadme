@@ -1,4 +1,4 @@
-# Hey! Soy William 💙![animebike]width="50%"(https://user-images.githubusercontent.com/125997854/222005432-801c530b-edac-47b3-a393-053bde5fee9e.gif)
+# Hey! Soy William 💙![animebike](https://user-images.githubusercontent.com/125997854/222005432-801c530b-edac-47b3-a393-053bde5fee9e.gif)
 
 Soy Ingeniero en Sistemas 💻 egresado de la Universidad Católica Andrés Bello en Caracas.
 
