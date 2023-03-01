@@ -1,4 +1,4 @@
-# Hey! Soy William 💙                            ![motobik](https://user-images.githubusercontent.com/125997854/222017423-6c9c22d3-ca36-4c88-a80d-f0130fb4b49b.gif)
+# 💙Hey! Soy William 💙![motobik](https://user-images.githubusercontent.com/125997854/222017423-6c9c22d3-ca36-4c88-a80d-f0130fb4b49b.gif)
 
 
 Soy Ingeniero en Sistemas 💻 egresado de la Universidad Católica Andrés Bello en Caracas.
@@ -12,5 +12,6 @@ Soy Ingeniero en Sistemas 💻 egresado de la Universidad Católica Andrés Bell
 * También me gusta producir beats de trap y tocar guitarra 🎸
 
 ### Lenguajes de Programación 💻
-![htmllil](https://user-images.githubusercontent.com/125997854/222015318-0698da17-e199-4600-8d5c-55280eda8c6f.png)
+![htmllil](https://user-images.githubusercontent.com/125997854/222015318-0698da17-e199-4600-8d5c-55280eda8c6f.png)![css](https://user-images.githubusercontent.com/125997854/222018016-4d223f5b-a6fb-47eb-9cee-3a42ac3ecc46.png)
+
 
