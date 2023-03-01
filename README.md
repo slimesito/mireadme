@@ -12,7 +12,8 @@ Soy Ingeniero en Sistemas 💻 egresado de la Universidad Católica Andrés Bell
 * También me gusta producir beats de trap y tocar guitarra 🎸
 
 ### Lenguajes de Programación 💻
-![htmllil](https://user-images.githubusercontent.com/125997854/222015318-0698da17-e199-4600-8d5c-55280eda8c6f.png)![css](https://user-images.githubusercontent.com/125997854/222018153-7d0f51c5-1ae0-404a-a2ed-9bca7548153c.png)
+![htmllil](https://user-images.githubusercontent.com/125997854/222015318-0698da17-e199-4600-8d5c-55280eda8c6f.png)![css](https://user-images.githubusercontent.com/125997854/222018209-c8db3d35-de1a-410f-903b-43416e2c7fff.png)
+
 
 
 
