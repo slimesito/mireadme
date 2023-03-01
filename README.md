@@ -1,4 +1,4 @@
-# Hey! Soy William 💙![motobike (1)](https://user-images.githubusercontent.com/125997854/222017178-d7eaaed7-d3d2-448a-9da8-169fe83148e0.gif)
+# Hey! Soy William 💙![motobik](https://user-images.githubusercontent.com/125997854/222017256-9a61ffae-f1d9-48bf-9ea6-88290d5b604a.gif)
 
 
 Soy Ingeniero en Sistemas 💻 egresado de la Universidad Católica Andrés Bello en Caracas.
